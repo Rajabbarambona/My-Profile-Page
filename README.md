@@ -42,6 +42,6 @@ ment in a reputable organization and acquire new skills in the field of web deve
 
 >Please find the link below for my projects on Github
 
-[Rajab's Github works](<https://github.com/Rajabbarambona?tab=repositories>)
+[Return to Github main Repository](<https://github.com/Rajabbarambona?tab=repositories>)
 
 :computer:
